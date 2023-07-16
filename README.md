@@ -4,7 +4,7 @@
 [English](README-EN.md)|中文
 
 ## 如何部署
-
+ 
 ### 提前准备
 你唯一需要提前准备的就是一个Cloudflare账户 （如果需要在自己的服务器上部署，不依赖Cloudflare，可参考[#46](https://github.com/cf-pages/Telegraph-Image/issues/46) ）
 
